@@ -1,0 +1,4 @@
+Aeronautics Research Centre	AEROLAB	Prof. Madya ABC	Dr.	xxx.my	abc.my	Blok P20	Universiti Teknologi Malaysia	81310 Johor Bahru	Johor
+Automotive Development Centre	ADC	Ir. Dr. Mohd	Dr.	abc.my	adc.my	Blok P21	Universiti Teknologi Malaysia	81310 Johor Bahru	Johor
+Center for Real Estate Studies	CRES	Sr. Dr. Abdullah	Dr.	def.my	abc.my	Aras 4, Blok B12, Fakulti Alam Bina dan Ukur	Universiti Teknologi Malaysia	81310 Johor Bahru	Johor
+
